@@ -17,7 +17,7 @@
 
 
     <!-- App name that you see on your front screen ( shops list screen ) -->
-    <string name="app_name">Nearby Shops</string>
+    <string name="app_name">Sab Mangwao</string>
     <drawable name="custom_icon">@drawable/logo_circle</drawable>
     <drawable name="login_icon">@drawable/logo_circle</drawable>
     <drawable name="app_logo">@drawable/logo_circle</drawable>
@@ -28,12 +28,12 @@
 
 
     <!-- Please provide the google play link from which user can download the app. This link is required for share you app feature and rate and review.-->
-    <string name="app_download_link">https://play.google.com/store/apps/details?id=org.nearbyshops.enduserappnew</string>
+    <string name="app_download_link">https://play.google.com/store/apps/details?id=com.sabmangwao</string>
 
 
     <!-- Enable maps and Places API and Mapbox map here -->
-    <string name="google_maps_api_key">AIzaSyDkHkcLBsbIptnnDktiuEKWxlqdLSCuNKY</string>
-    <string name="custom_mapbox_url">https://example.com</string>
+    <string name="google_maps_api_key">AIzaSyCkkzDDoOe7NeWy9eU4RG8Zz9VQuNFO82g</string>
+    <string name="custom_mapbox_url">http://sabmangwao.com</string>
 
 
     <!--Switch between Google Maps or Mapbox API by using this setting-->

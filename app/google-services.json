@@ -1,34 +1,41 @@
 {
   "project_info": {
-    "project_number": "942803123964",
-    "firebase_url": "https://nearby-shops-9fae2.firebaseio.com",
-    "project_id": "nearby-shops-9fae2",
-    "storage_bucket": "nearby-shops-9fae2.appspot.com"
+    "project_number": "520327452306",
+    "project_id": "sab-mangwao",
+    "storage_bucket": "sab-mangwao.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:942803123964:android:9073381ee72428b28fa179",
+        "mobilesdk_app_id": "1:520327452306:android:aab42a40d2052ffdc5384b",
         "android_client_info": {
-          "package_name": "org.nearbyshops.enduserappnew"
+          "package_name": "com.sabmangwao"
         }
       },
       "oauth_client": [
         {
-          "client_id": "942803123964-o4q6vjor7jt8ms4t88k13fo1jikt1ndp.apps.googleusercontent.com",
+          "client_id": "520327452306-g2lj8gqh89bo3jbgq1i7da2ua624r2ta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sabmangwao",
+            "certificate_hash": "155fa6589136485e21afae23114935ecc1a9de78"
+          }
+        },
+        {
+          "client_id": "520327452306-kn8ifl54ir2ip4n1ufsump96016qcp17.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCL6ca2RxBd69TAZ2305PQNs1AS9R7735k"
+          "current_key": "AIzaSyCkkzDDoOe7NeWy9eU4RG8Zz9VQuNFO82g"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "942803123964-o4q6vjor7jt8ms4t88k13fo1jikt1ndp.apps.googleusercontent.com",
+              "client_id": "520327452306-kn8ifl54ir2ip4n1ufsump96016qcp17.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
